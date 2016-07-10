@@ -1,0 +1,6 @@
+#!/bin/sh
+
+export YELP_CONSUMER_KEY=6A2aQhfeX7b26TIIEMINhA
+export YELP_CONSUMER_SECRET=DibBTbgannpaAmyN6DRSq-k-ddw
+export YELP_TOKEN=O_tk1olhDc9kyT6S_0HW7sVclS6WVVkQ
+export YELP_TOKEN_SECRETE=D2hPwj1j7sH4-WYRyXWj_PH0hcQ

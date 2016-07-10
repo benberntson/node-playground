@@ -1,0 +1,19 @@
+{
+  "name": "yelp-api-demo",
+  "version": "1.0.0",
+  "description": "A demo of Yelp's API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yelp",
+    "node"
+  ],
+  "author": "ben",
+  "license": "MIT",
+  "dependencies": {
+    "yelp": "^1.0.1"
+  }
+}
